@@ -1,0 +1,10 @@
+{
+  "name": "api-mapper",
+  "version": "0.0.1",
+  "dependencies": {
+    "fs-crawler": {
+      "version": "0.0.1",
+      "from": "fs-crawler@latest"
+    }
+  }
+}
