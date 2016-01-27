@@ -1,7 +1,7 @@
 {
   "name": "api-mapper",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/luscus/api-mapper",
   "author": "https://github.com/luscus/api-mapper/graphs/contributors",
   "description": "Maps all routes and their options of some provided API structure",
