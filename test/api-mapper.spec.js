@@ -1,6 +1,5 @@
 'use strict';
 
-var devmode = require('devmode');
 var expect  = require('chai').expect;
 var mapper  = require('../lib/api-mapper');
 var map;
