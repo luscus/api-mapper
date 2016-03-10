@@ -10,17 +10,16 @@
     "mapper"
   ],
   "dependencies": {
-    "fs-crawler": "0.0.1"
+    "fs-crawler": "^0"
   },
   "devDependencies": {
     "chai": "^3.4.1",
-    "devmode": "^1.0.1",
     "gulp": "^3.9.0",
     "gulp-concat": "^2.6.0",
     "gulp-jsdoc-to-markdown": "^1.2.0",
     "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.6",
-    "gulpfile.basics": "^0.0.3",
+    "gulpfile.basics": "^0",
     "mocha": "^2.3.4",
     "pem": "^1.8.1"
   },
