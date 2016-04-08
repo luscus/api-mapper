@@ -1,7 +1,7 @@
 {
   "name": "api-mapper",
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/luscus/api-mapper",
   "author": "https://github.com/luscus/api-mapper/graphs/contributors",
   "description": "Maps all routes and their options of some provided API structure",
@@ -10,7 +10,8 @@
     "mapper"
   ],
   "dependencies": {
-    "fs-crawler": "^0"
+    "fs-crawler": "^0",
+    "merge": "^1.2.0"
   },
   "devDependencies": {
     "chai": "^3.4.1",

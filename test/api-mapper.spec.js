@@ -6,7 +6,7 @@ var map;
 
 describe('[' + __filename.substring(__filename.indexOf('/test/') + 1) + '] - mapper ', function() {
   before(function (done) {
-    mapper.map(__dirname + '/api.test', function (apiMap) {
+    mapper.map(__dirname + '/RESTfs-api-test', function (apiMap) {
       map = apiMap;
       done();
     });
